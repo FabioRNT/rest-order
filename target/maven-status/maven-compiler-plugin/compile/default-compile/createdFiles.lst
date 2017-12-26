@@ -1,0 +1,10 @@
+main\java\order\domain\Order.class
+main\java\order\resource\OrderResourceAssembler.class
+main\java\order\repository\OrderRepository.class
+main\java\order\domain\Identifiable.class
+main\java\order\Application.class
+main\java\order\repository\IdGenerator.class
+main\java\order\resource\OrderResource.class
+main\java\order\resource\ResourceAssembler.class
+main\java\order\repository\InMemoryRepository.class
+main\java\order\controller\OrderController.class
